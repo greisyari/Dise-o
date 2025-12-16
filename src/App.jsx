@@ -9,7 +9,7 @@ import Portada from './componentes/portada'
 import Separacion from './componentes/separacion'
 import Portafolio from './componentes/portafolio'
 import Opiniones from './componentes/opiniones'
-import Registrarse from './componentes/Registrar'; 
+import Registrarse from './componentes/registrar'; 
 import Agendar from './componentes/Agendar';
 import Iniciarsesion from './componentes/Iniciarsesion'
 import LoginScreen from  './componentes/LoginScreen'
