@@ -13,7 +13,7 @@ import Registrarse from './componentes/Registrar';
 import Agendar from './componentes/Agendar';
 import Iniciarsesion from './componentes/iniciarsesion'
 import LoginScreen from  './componentes/LoginScreen'
-import Nosotras from './componentes/nosotras';
+import Nosotras from './componentes/Nosotras';
 
 function App() {
   return (
